@@ -1,0 +1,6 @@
+# Archives de sauvegarde (trop lourdes, inutiles dans Git)
+backups/
+*.tar.gz
+# Fichiers temporaires d'éditeurs
+*.swp
+*~
